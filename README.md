@@ -5,7 +5,7 @@
 
 ## 설치 방법
 1. 필요한 라이브러리를 설치합니다.
-```python
+``` python
 ##필요한 라이브러리 설치
 !pip install numpy imageio pillow
 ##colab에서 정상적인 한글 출력을 위해 폰트 설치
